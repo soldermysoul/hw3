@@ -1,12 +1,5 @@
 $(document).ready(function(){
 
-let url = `https://itcdland.csumb.edu/~milara/ajax/promo/products.php`;
-let response = await fetch(url);
-let data = await response.text();
-var arr = jQuery.parseJSON(data);
-
-
-
 			$("button").on("click",getjoke);
 
 ChuckCategories();
