@@ -1,0 +1,24 @@
+body{
+	margin-bottom: 60px; 
+	margin-top: 60px; 
+	background: #FFFFF1 !important; 
+	text-decoration: none;
+	font-size: 1.1rem;
+    font-family: 'Krub';
+	}
+
+
+button {
+	margin-top: 25px;
+
+}
+
+.styled {
+	font-size: 1.2rem;
+	color: #68ACFF
+}
+
+.bigchuck {
+	color: #8554FF
+	font-size: 2.5rem;
+}
